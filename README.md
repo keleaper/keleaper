@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @keleaper
+- 👋 Hi, I’m @keegan
 - 👀 I’m an aspiring software developer who enjoys playing soccer, spending time with family and friends, and of course to code!
 - 🌱 I’m currently learning React and other JS frameworks from a Software Development Bootcamp taught by Angela Yu.
 - 💞️ I’m looking to collaborate on projects that have real world use case that help improve peoples lives.
